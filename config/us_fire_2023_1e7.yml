@@ -1,0 +1,413 @@
+output_bucket: firespreadprediction
+rectangular_size: 0.5
+year: 2023
+fire_WA4872212113620230729:
+  latitude: 48.742
+  longitude: -121.158
+  start: 2023-07-25
+  end: 2023-08-22
+fire_WA4772012350820230901:
+  latitude: 47.774
+  longitude: -123.456
+  start: 2023-08-28
+  end: 2023-09-25
+fire_CA4137212367320230815:
+  latitude: 41.471
+  longitude: -123.669
+  start: 2023-08-11
+  end: 2023-09-08
+fire_CA4185912384020230815:
+  latitude: 41.911
+  longitude: -123.852
+  start: 2023-08-11
+  end: 2023-09-08
+fire_CA4159512351220230815:
+  latitude: 41.628
+  longitude: -123.529
+  start: 2023-08-11
+  end: 2023-09-08
+fire_CA4168112342020230816:
+  latitude: 41.704
+  longitude: -123.398
+  start: 2023-08-12
+  end: 2023-09-09
+fire_CA4130412348820230817:
+  latitude: 41.331
+  longitude: -123.462
+  start: 2023-08-13
+  end: 2023-09-10
+fire_CA4178812378820230818:
+  latitude: 41.801
+  longitude: -123.761
+  start: 2023-08-14
+  end: 2023-09-11
+fire_MT4836711395520230730:
+  latitude: 48.366
+  longitude: -113.938
+  start: 2023-07-26
+  end: 2023-08-23
+fire_WA4607911882620230619:
+  latitude: 46.097
+  longitude: -118.79
+  start: 2023-06-15
+  end: 2023-07-13
+fire_WA4624811961520230613:
+  latitude: 46.236
+  longitude: -119.534
+  start: 2023-06-09
+  end: 2023-07-07
+fire_OR4590811915320230613:
+  latitude: 45.959
+  longitude: -119.02
+  start: 2023-06-09
+  end: 2023-07-07
+fire_KS3882609629820230411:
+  latitude: 38.848
+  longitude: -96.3
+  start: 2023-04-07
+  end: 2023-05-05
+fire_MT4738211480620230818:
+  latitude: 47.395
+  longitude: -114.777
+  start: 2023-08-14
+  end: 2023-09-11
+fire_MT4752211441520230730:
+  latitude: 47.559
+  longitude: -114.393
+  start: 2023-07-26
+  end: 2023-08-23
+fire_MT4782811459320230730:
+  latitude: 47.806
+  longitude: -114.507
+  start: 2023-07-26
+  end: 2023-08-23
+fire_MT4790411360420230730:
+  latitude: 47.921
+  longitude: -113.574
+  start: 2023-07-26
+  end: 2023-08-23
+fire_MT4798011369820230730:
+  latitude: 47.988
+  longitude: -113.699
+  start: 2023-07-26
+  end: 2023-08-23
+fire_KS3910909641920230407:
+  latitude: 39.092
+  longitude: -96.443
+  start: 2023-04-03
+  end: 2023-05-01
+fire_MT4714211396720230724:
+  latitude: 47.143
+  longitude: -113.923
+  start: 2023-07-20
+  end: 2023-08-17
+fire_MT4735311366620230718:
+  latitude: 47.342
+  longitude: -113.653
+  start: 2023-07-14
+  end: 2023-08-11
+fire_OR4274612434420230825:
+  latitude: 42.752
+  longitude: -124.326
+  start: 2023-08-21
+  end: 2023-09-18
+fire_WA4801412101320230707:
+  latitude: 48.023
+  longitude: -121.043
+  start: 2023-07-03
+  end: 2023-07-31
+fire_ID4470311374220230719:
+  latitude: 44.714
+  longitude: -113.695
+  start: 2023-07-15
+  end: 2023-08-12
+fire_OR4397112254620230723:
+  latitude: 43.987
+  longitude: -122.515
+  start: 2023-07-19
+  end: 2023-08-16
+fire_NM3329410838820230726:
+  latitude: 33.306
+  longitude: -108.375
+  start: 2023-07-22
+  end: 2023-08-19
+fire_NM3340610828920230519:
+  latitude: 33.359
+  longitude: -108.22
+  start: 2023-05-15
+  end: 2023-06-12
+fire_NM3354010838820230713:
+  latitude: 33.559
+  longitude: -108.396
+  start: 2023-07-09
+  end: 2023-08-06
+fire_OR4337712360720230825:
+  latitude: 43.367
+  longitude: -123.589
+  start: 2023-08-21
+  end: 2023-09-18
+fire_CA3389011707120230714:
+  latitude: 33.89
+  longitude: -117.026
+  start: 2023-07-10
+  end: 2023-08-07
+fire_CA3343811682320231030:
+  latitude: 33.452
+  longitude: -116.868
+  start: 2023-10-26
+  end: 2023-11-23
+fire_ID4324111431120230909:
+  latitude: 43.227
+  longitude: -114.249
+  start: 2023-09-05
+  end: 2023-10-03
+fire_CA3433311901820231209:
+  latitude: 34.304
+  longitude: -119.076
+  start: 2023-12-05
+  end: 2024-01-02
+fire_ID4280311535720230522:
+  latitude: 42.783
+  longitude: -115.309
+  start: 2023-05-18
+  end: 2023-06-15
+fire_HI2077115632620230809:
+  latitude: 20.789
+  longitude: -156.407
+  start: 2023-08-05
+  end: 2023-09-02
+fire_AK6373914512020230728:
+  latitude: 63.744
+  longitude: -145.076
+  start: 2023-07-24
+  end: 2023-08-21
+fire_AK6428014593920230724:
+  latitude: 64.312
+  longitude: -145.893
+  start: 2023-07-20
+  end: 2023-08-17
+fire_AK6436714575620230725:
+  latitude: 64.379
+  longitude: -145.731
+  start: 2023-07-21
+  end: 2023-08-18
+fire_AK6450014637720230725:
+  latitude: 64.479
+  longitude: -146.375
+  start: 2023-07-21
+  end: 2023-08-18
+fire_AK6408014640020230725:
+  latitude: 64.092
+  longitude: -146.498
+  start: 2023-07-21
+  end: 2023-08-18
+fire_AK6394514603420230729:
+  latitude: 63.996
+  longitude: -146.05
+  start: 2023-07-25
+  end: 2023-08-22
+fire_AK6441314937020230726:
+  latitude: 64.386
+  longitude: -149.366
+  start: 2023-07-22
+  end: 2023-08-19
+fire_AK6399815010720230727:
+  latitude: 64.121
+  longitude: -150.203
+  start: 2023-07-23
+  end: 2023-08-20
+fire_AK6404814967220230728:
+  latitude: 64.138
+  longitude: -149.813
+  start: 2023-07-24
+  end: 2023-08-21
+fire_AK6415114950920230728:
+  latitude: 64.175
+  longitude: -149.521
+  start: 2023-07-24
+  end: 2023-08-21
+fire_AK6444814925620230802:
+  latitude: 64.468
+  longitude: -149.27
+  start: 2023-07-29
+  end: 2023-08-26
+fire_AK6516214774620230728:
+  latitude: 65.176
+  longitude: -147.715
+  start: 2023-07-24
+  end: 2023-08-21
+fire_AK6676414246220230730:
+  latitude: 66.775
+  longitude: -142.465
+  start: 2023-07-26
+  end: 2023-08-23
+fire_OR4396912190120230825:
+  latitude: 43.968
+  longitude: -121.902
+  start: 2023-08-21
+  end: 2023-09-18
+fire_WA4727811999320230710:
+  latitude: 47.25
+  longitude: -119.986
+  start: 2023-07-06
+  end: 2023-08-03
+fire_ID4432811659120230819:
+  latitude: 44.337
+  longitude: -116.641
+  start: 2023-08-15
+  end: 2023-09-12
+fire_ID4782411661420230803:
+  latitude: 47.852
+  longitude: -116.579
+  start: 2023-07-30
+  end: 2023-08-27
+fire_WA4803411723020230818:
+  latitude: 47.996
+  longitude: -117.197
+  start: 2023-08-14
+  end: 2023-09-11
+fire_AZ3370210944920231026:
+  latitude: 33.683
+  longitude: -109.425
+  start: 2023-10-22
+  end: 2023-11-19
+fire_AZ3180711070920230616:
+  latitude: 31.822
+  longitude: -110.673
+  start: 2023-06-12
+  end: 2023-07-10
+fire_AZ3150111115820230701:
+  latitude: 31.513
+  longitude: -111.144
+  start: 2023-06-27
+  end: 2023-07-25
+fire_WA4753811774420230818:
+  latitude: 47.529
+  longitude: -117.673
+  start: 2023-08-14
+  end: 2023-09-11
+fire_AZ3162311150920230722:
+  latitude: 31.623
+  longitude: -111.496
+  start: 2023-07-18
+  end: 2023-08-15
+fire_AZ3163511165120230829:
+  latitude: 31.635
+  longitude: -111.639
+  start: 2023-08-25
+  end: 2023-09-22
+fire_CA3494811969120230819:
+  latitude: 34.936
+  longitude: -119.787
+  start: 2023-08-15
+  end: 2023-09-12
+fire_CA3559211985820230806:
+  latitude: 35.559
+  longitude: -119.837
+  start: 2023-08-02
+  end: 2023-08-30
+fire_CA3671811888320230930:
+  latitude: 36.726
+  longitude: -118.878
+  start: 2023-09-26
+  end: 2023-10-24
+fire_CA3806111999220230909:
+  latitude: 38.09
+  longitude: -119.93
+  start: 2023-09-05
+  end: 2023-10-03
+fire_AZ3487111328820230701:
+  latitude: 34.927
+  longitude: -113.316
+  start: 2023-06-27
+  end: 2023-07-25
+fire_CA3528611528620230728:
+  latitude: 35.305
+  longitude: -115.206
+  start: 2023-07-24
+  end: 2023-08-21
+fire_MT4619011381320230721:
+  latitude: 46.19
+  longitude: -113.792
+  start: 2023-07-17
+  end: 2023-08-14
+fire_ID4446811584420230816:
+  latitude: 44.455
+  longitude: -115.839
+  start: 2023-08-12
+  end: 2023-09-09
+fire_ID4550411531520230724:
+  latitude: 45.55
+  longitude: -115.226
+  start: 2023-07-20
+  end: 2023-08-17
+fire_MT4853011485520230730:
+  latitude: 48.538
+  longitude: -114.798
+  start: 2023-07-26
+  end: 2023-08-23
+fire_WA4583112045920230721:
+  latitude: 45.851
+  longitude: -120.337
+  start: 2023-07-17
+  end: 2023-08-14
+fire_OR4539112045420230710:
+  latitude: 45.376
+  longitude: -120.399
+  start: 2023-07-06
+  end: 2023-08-03
+fire_OR4306012146920230520:
+  latitude: 43.049
+  longitude: -121.468
+  start: 2023-05-16
+  end: 2023-06-13
+fire_OR4292712167320230923:
+  latitude: 42.933
+  longitude: -121.675
+  start: 2023-09-19
+  end: 2023-10-17
+fire_NM3339610844820230803:
+  latitude: 33.401
+  longitude: -108.463
+  start: 2023-07-30
+  end: 2023-08-27
+fire_NM3354210783420230731:
+  latitude: 33.536
+  longitude: -107.826
+  start: 2023-07-27
+  end: 2023-08-24
+fire_NM3369910755620230723:
+  latitude: 33.707
+  longitude: -107.564
+  start: 2023-07-19
+  end: 2023-08-16
+fire_NM3302810845420230722:
+  latitude: 33.041
+  longitude: -108.419
+  start: 2023-07-18
+  end: 2023-08-15
+fire_CA4177812304120230815:
+  latitude: 41.771
+  longitude: -123.02
+  start: 2023-08-11
+  end: 2023-09-08
+fire_CA4093612292720230815:
+  latitude: 40.917
+  longitude: -122.928
+  start: 2023-08-11
+  end: 2023-09-08
+fire_CA4063812358720230816:
+  latitude: 40.632
+  longitude: -123.576
+  start: 2023-08-12
+  end: 2023-09-09
+fire_NM3371010845920230715:
+  latitude: 33.675
+  longitude: -108.47
+  start: 2023-07-11
+  end: 2023-08-08
+fire_OR4251612403720230716:
+  latitude: 42.448
+  longitude: -124.081
+  start: 2023-07-12
+  end: 2023-08-09
